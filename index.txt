@@ -1,2 +1,3 @@
 yapılacaklar 1
 yapılacaklarv 2
+yapılacaklar yapıldı
